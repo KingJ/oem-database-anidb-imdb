@@ -13,7 +13,7 @@ PACKAGE_NAME = 'oem-database-anidb-imdb'
 def build_config():
     config = {
         'name': PACKAGE_NAME,
-        'version': '1.19.22',
+        'version': '1.19.24',
 
         'author': 'Dean Gardiner',
         'author_email': 'me@dgardiner.net',
